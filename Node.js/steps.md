@@ -1,5 +1,5 @@
 # Hello world in Node.JS
-Make your first Node.JS application in minutes.
+Make your first Node.JS application in minutes
 # Follow the given steps to make your first Node.JS application
 
  1. Install Node.JS from [this link](https://nodejs.org/en/download/)
